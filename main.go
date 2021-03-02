@@ -15,8 +15,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/omiselabs/fresh/runner"
 	"os"
+
+	"github.com/opn-ooo/fresh/runner"
 )
 
 func main() {

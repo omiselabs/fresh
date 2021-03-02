@@ -13,7 +13,7 @@ It currently works with [Traffic](https://github.com/pilu/traffic), [Martini](ht
 
 ## Installation
 
-    go get github.com/omiselabs/fresh
+    go get github.com/opn-ooo/fresh
 
 ## Usage
 
